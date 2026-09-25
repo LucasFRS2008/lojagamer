@@ -1,16 +1,54 @@
-# React + Vite
+# Loja Gamer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Uma loja gamer básica desenvolvida com **React**, criada para praticar desenvolvimento de interfaces web, componentes e organização de projetos front-end.
 
-Currently, two official plugins are available:
+##  Sobre o projeto
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+O projeto simula uma loja virtual de produtos gamers, com uma interface simples e responsiva.
 
-## React Compiler
+A aplicação foi desenvolvida utilizando **React** e tem como objetivo colocar em prática conceitos de desenvolvimento front-end.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Tecnologias utilizadas
 
-## Expanding the ESLint configuration
+* React
+* JavaScript
+* HTML5
+* CSS3
+* Vite
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Funcionalidades
+
+*  Exibição de produtos
+*  Catálogo de produtos gamers
+* Interface desenvolvida com React
+* Layout responsivo
+*  Componentização
+*  Estilização com CSS
+
+##  Como executar o projeto
+
+### 1. Clone o repositório
+
+```bash
+git clone URL_DO_SEU_REPOSITORIO
+```
+
+### 2. Entre na pasta
+
+```bash
+cd nome-do-projeto
+```
+
+### 3. Instale as dependências
+
+```bash
+npm install
+```
+
+### 4. Execute o projeto
+
+```bash
+npm run dev
+```
+
+Depois, acesse o endereço m
