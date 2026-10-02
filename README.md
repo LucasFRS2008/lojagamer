@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Loja Gamer
 
 Uma loja gamer básica desenvolvida com **React**, criada para praticar desenvolvimento de interfaces web, componentes e organização de projetos front-end.
@@ -52,3 +53,4 @@ npm run dev
 ```
 
 Depois, acesse o endereço m
+
