@@ -1,5 +1,3 @@
-import React from 'react'
-
 const Contato = () => {
   return (
     <main className="grow flex items-center justify-center px-4">
@@ -16,12 +14,17 @@ const Contato = () => {
         <a
           href="mailto:suporte@lojagamer.com"
           className="block text-center text-[#95ff00] font-semibold hover:underline transition-all"
-        >
+        >a
           suporte@lojagamer.com
         </a>
 
       </div>
     </main>
+
+    //   <main className="px-[5%] my-8 grow">
+    //     <h2 className="text-3xl font-bold mb-4 text-[#95ff00]">Catálogo de Jogos</h2>
+    //   <p className="text-gray-300">Aqui você encontrará todos os jogos disponíveis na nossa loja gamer.</p>
+    // </main>
   )
 }
 
